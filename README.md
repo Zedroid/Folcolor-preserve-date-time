@@ -1,6 +1,6 @@
 # Folcolor™: The Windows folder color utility
 ## Open Source, 100% free, minimalist, and secure.
-
+github issue for reference 
 https://github.com/kweatherman/Folcolor/issues/11
 
 ![GitHub](https://img.shields.io/github/license/kweatherman/Folcolor)
